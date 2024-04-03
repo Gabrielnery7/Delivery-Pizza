@@ -20,6 +20,10 @@ https://github.com/Gabrielnery7/Delivery-Pizza/assets/128620029/751fdcc5-7d3d-48
 
 
 
+https://github.com/Gabrielnery7/Delivery-Pizza/assets/128620029/e7974218-35fc-4aa5-86ac-a692b775150d
+
+
+
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
